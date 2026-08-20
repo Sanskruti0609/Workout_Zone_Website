@@ -1,0 +1,15 @@
+:root {
+  --black: #070807;
+  --charcoal: #0d100d;
+  --charcoal-2: #121612;
+  --charcoal-3: #171c17;
+
+  --lime: #b7ff00;
+
+  --white: #f5f7f3;
+  --muted: #9aa199;
+
+  --border: rgba(245, 247, 243, 0.12);
+
+  --max-width: 1200px;
+}

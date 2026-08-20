@@ -1,8 +1,12 @@
+import Hero from "../components/Hero";
+import ServicesPreview from "../components/ServicesPreview";
+
 function Home() {
   return (
-    <main>
-      <h1>Workout Zone</h1>
-    </main>
+    <>
+      <Hero />
+      <ServicesPreview />
+    </>
   );
 }
 
